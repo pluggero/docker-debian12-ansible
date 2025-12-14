@@ -1,6 +1,6 @@
 # Debian 12 (Bookworm) Ansible Test Image
 
-[![CI](https://github.com/pluggero/docker-debian12-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/pluggero/docker-debian12-ansible/actions/workflows/build.yml) [![Docker pulls](https://img.shields.io/docker/pulls/pluggero/docker-debian12-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/pluggero/docker-debian12-ansible/)
+[![Build and Release](https://github.com/pluggero/docker-debian12-ansible/actions/workflows/release.yml/badge.svg)](https://github.com/pluggero/docker-debian12-ansible/actions/workflows/release.yml) [![Docker pulls](https://img.shields.io/docker/pulls/pluggero/docker-debian12-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/pluggero/docker-debian12-ansible/)
 
 Debian 12 (Bookworm) Docker container for Ansible playbook and role testing.
 
