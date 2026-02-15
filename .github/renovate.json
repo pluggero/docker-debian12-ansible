@@ -1,7 +1,8 @@
 {
   "extends": [
     "config:best-practices",
-    ":disableRateLimiting"
+    ":disableRateLimiting",
+    "github>pluggero/renovate-config-ansible-galaxy"
   ],
   "automerge": false,
   "automergeType": "pr",
@@ -12,7 +13,7 @@
       "automergeType": "pr"
     },
     {
-      "matchManagers": ["custom.regex", "ansible-galaxy"],
+      "matchManagers": ["custom.regex"],
       "automerge": false
     },
     {
