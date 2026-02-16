@@ -4,7 +4,6 @@
     ":disableRateLimiting",
     "github>pluggero/renovate-config-ansible-galaxy"
   ],
-  "automerge": false,
   "automergeType": "pr",
   "packageRules": [
     {
